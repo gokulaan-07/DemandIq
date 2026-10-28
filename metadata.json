@@ -1,0 +1,6 @@
+{
+  "name": "DemandIQ",
+  "description": "Intelligent Demand & Profit Analytics Platform for Indian D2C and Social Commerce Sellers",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
